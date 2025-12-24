@@ -1,1 +1,3 @@
 This is my second repo..........................
+echo"This is my first Github project.">>README.md
+hello
